@@ -1,0 +1,1 @@
+docker run -it -v .:/app/output auvetech /bin/bash
